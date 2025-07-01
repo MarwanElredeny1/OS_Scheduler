@@ -1,0 +1,3 @@
+/home/stodgy/OS-MS2/CMakeFiles/OS_MS2.dir
+/home/stodgy/OS-MS2/CMakeFiles/edit_cache.dir
+/home/stodgy/OS-MS2/CMakeFiles/rebuild_cache.dir
